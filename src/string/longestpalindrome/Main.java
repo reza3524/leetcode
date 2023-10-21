@@ -2,7 +2,7 @@ package string.longestpalindrome;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(longestPalindrome("babad"));
+        System.out.println(longestPalindrome("cbbd"));
     }
 
     static int start = 0;
@@ -22,9 +22,9 @@ public class Main {
         }
         left += 1;
         right -= 1;
-        if (end - start + 1 < right - left + 1) {
-            start = left;
+        if (end - start < right - left) {
             end = right;
+            start = left;
         }
     }
 }
