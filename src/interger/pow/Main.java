@@ -1,4 +1,4 @@
-package intergers.pow;
+package interger.pow;
 
 public class Main {
     public static void main(String[] args) {

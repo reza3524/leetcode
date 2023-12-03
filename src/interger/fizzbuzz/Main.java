@@ -1,4 +1,4 @@
-package intergers.fizzbuzz;
+package interger.fizzbuzz;
 
 import java.util.ArrayList;
 import java.util.List;

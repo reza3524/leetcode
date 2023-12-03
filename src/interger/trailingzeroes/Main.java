@@ -1,4 +1,4 @@
-package intergers.trailingzeroes;
+package interger.trailingzeroes;
 
 public class Main {
     public static void main(String[] args) {

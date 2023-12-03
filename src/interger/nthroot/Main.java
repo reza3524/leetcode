@@ -1,4 +1,4 @@
-package intergers.nthroot;
+package interger.nthroot;
 
 public class Main {
     public static void main(String[] args) {

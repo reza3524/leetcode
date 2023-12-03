@@ -1,4 +1,4 @@
-package intergers.reverseInteger;
+package interger.reverseInteger;
 
 public class Main {
     public static void main(String[] args) {
